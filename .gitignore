@@ -1,0 +1,11 @@
+/.apt_generated/
+/target/
+.classpath
+.factorypath
+.project
+.settings/.jsdtscope
+*.prefs
+*.component
+*.xml
+*.container
+*.name
